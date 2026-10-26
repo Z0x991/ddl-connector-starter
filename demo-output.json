@@ -1,0 +1,55 @@
+[
+  {
+    "calendarId": "demo-cs222",
+    "uid": "hw1",
+    "title": "Project check-in",
+    "due": "2026-10-30T23:59:00-05:00",
+    "normalizedDue": "2026-10-31T04:59:00.000Z",
+    "issues": [],
+    "status": "valid"
+  },
+  {
+    "calendarId": "demo-cs222",
+    "uid": "hw2",
+    "title": "Design notes",
+    "due": null,
+    "normalizedDue": null,
+    "issues": [
+      "Missing due date"
+    ],
+    "status": "needs_review"
+  },
+  {
+    "calendarId": "demo-cs222",
+    "uid": "hw3",
+    "title": "",
+    "due": "2026-10-30T23:59:00Z",
+    "normalizedDue": "2026-10-30T23:59:00.000Z",
+    "issues": [
+      "Missing title"
+    ],
+    "status": "needs_review"
+  },
+  {
+    "calendarId": "demo-cs222",
+    "uid": "hw1",
+    "title": "Project check-in",
+    "due": "2026-10-30T23:59:00-05:00",
+    "normalizedDue": "2026-10-31T04:59:00.000Z",
+    "issues": [
+      "Duplicate record: review before import"
+    ],
+    "status": "needs_review"
+  },
+  {
+    "calendarId": "demo-cs222",
+    "uid": "hw4",
+    "title": "Review",
+    "due": "2026-10-30T23:59:00",
+    "normalizedDue": null,
+    "issues": [
+      "Use a full timestamp with seconds and an explicit UTC offset"
+    ],
+    "status": "needs_review"
+  }
+]

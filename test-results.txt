@@ -1,0 +1,19 @@
+test_blank_title (test_validator.ValidatorTests.test_blank_title) ... ok
+test_conflicting_date (test_validator.ValidatorTests.test_conflicting_date) ... ok
+test_duplicate (test_validator.ValidatorTests.test_duplicate) ... ok
+test_impossible_clock (test_validator.ValidatorTests.test_impossible_clock) ... ok
+test_impossible_date (test_validator.ValidatorTests.test_impossible_date) ... ok
+test_leap_day (test_validator.ValidatorTests.test_leap_day) ... ok
+test_missing_date (test_validator.ValidatorTests.test_missing_date) ... ok
+test_missing_identifiers (test_validator.ValidatorTests.test_missing_identifiers) ... ok
+test_no_mutation (test_validator.ValidatorTests.test_no_mutation) ... ok
+test_nonsense_date (test_validator.ValidatorTests.test_nonsense_date) ... ok
+test_separate_calendars (test_validator.ValidatorTests.test_separate_calendars) ... ok
+test_timezone_free_string (test_validator.ValidatorTests.test_timezone_free_string) ... ok
+test_trim_title (test_validator.ValidatorTests.test_trim_title) ... ok
+test_utc_conversion (test_validator.ValidatorTests.test_utc_conversion) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.001s
+
+OK
